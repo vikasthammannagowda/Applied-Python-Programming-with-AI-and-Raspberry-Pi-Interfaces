@@ -11,7 +11,7 @@
 
 
 
-# Module Essentials: Grammar, Semantics, and Interaction
+# Essentials: Grammar, Semantics, and Interaction
 
 **Topics:**
 1. Introduction to Computers
@@ -19,7 +19,7 @@
 3. Error, I/O
 4. Operators
 
-# Module Logic: Think, Collect, and Repeat
+# Logic: Think, Collect, and Repeat
 
 **Topics**
 1. if, if-else, if-elif-else statements
