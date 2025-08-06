@@ -1,1 +1,32 @@
-# An immersive IoT-driven Python course where hands-on hardware, collaborative problem-solving, and reflective practice bring abstract coding concepts to life.
+# An immersive Python course where hands-on hardware, collaborative problem-solving, and reflective practice bring abstract coding concepts to life.
+
+
+**This course introduces Python programming through hands-on physical computing, combining software development with real-world circuit interaction using the Raspberry Pi. Starting from the fundamentals—variables, data types, and control structures—students gradually build toward advanced topics such as object-oriented programming (including inheritance), AI-assisted development, and hardware-software integration.**
+
+**Organized into structured modules, each unit begins with preparatory notes, followed by an interactive lecture, post-lecture conceptual explanations with hands-on code tracing activity, homework assignment, pop-up MCQ quizzes. Modules culminate in labs where students apply their knowledge in physical scenarios—ranging from simple LED control and temperature sensing to designing automated parking systems for remote-controlled cars. Each module concludes with a short multiple-choice quiz administered after the lab session to reinforce and assess understanding of both conceptual and hands-on material.**
+
+**Large Language Models (LLMs) and generative AI tools are used throughout as coding assistants, helping students brainstorm, debug, and refine code with greater confidence and creativity.**
+
+**This course is open to all students who have completed at least 60 college credits. No prior programming or electronics experience is required. Ideal for students in computer science, engineering, digital arts, or interdisciplinary fields, the course emphasizes problem-solving, design thinking, and tangible outcomes through code and circuits.**
+
+
+
+# Module 1: Python Basics
+
+**Topics:**
+1. Introduction to Computers
+2. Variables, DataTypes
+3. Error, I/O
+4. Operators
+
+# Module 2: Selection Statements and Loops
+
+**Topics**
+1. if, if-else, if-elif-else statements
+2. Nested if-else statements
+3. while True loop, break, continue
+4. Collective DataTypes (List, Tuple, Set, Dictionary)
+5. while, for loops
+6. Nested loops
+   
+
