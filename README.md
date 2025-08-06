@@ -15,9 +15,9 @@
 
 **Topics:**
 1. Introduction to Computers
-2. Variables, DataTypes
+2. Variables, DataTypes, I/O
 3. Operators 
-4. Error, I/O, Exception Handling
+4. Error, Exception Handling
 
 
 # Decide and Repeat: Controlling Program Flow
