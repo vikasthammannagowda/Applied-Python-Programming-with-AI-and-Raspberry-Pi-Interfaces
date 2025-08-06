@@ -11,7 +11,7 @@
 
 
 
-# Module 1: Python Basics
+# Module Essentials: Grammar, Semantics, and Interaction
 
 **Topics:**
 1. Introduction to Computers
@@ -19,13 +19,13 @@
 3. Error, I/O
 4. Operators
 
-# Module 2: Selection Statements and Loops
+# Module Logic: Think, Collect, and Repeat
 
 **Topics**
 1. if, if-else, if-elif-else statements
 2. Nested if-else statements
 3. while True loop, break, continue
-4. Collective DataTypes (List, Tuple, Set, Dictionary)
+4. Collective DataTypes- *List, Tuple, Set, Dictionary*
 5. while, for loops
 6. Nested loops
    
