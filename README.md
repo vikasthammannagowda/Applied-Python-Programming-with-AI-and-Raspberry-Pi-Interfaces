@@ -25,7 +25,8 @@
 **Topics**
 1. if, if-else, if-elif-else statements
 2. Nested if-else statements
-3. while True loop, break, continue
+3. Built-in functions
+4. while True loop, break, continue
 
 
 # Collections and Iteration: Looping Through Data
