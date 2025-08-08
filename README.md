@@ -40,7 +40,8 @@
 
 **Topics**
 1. Nested loops
-2. User defined functions
+2. Looping Comprehensions
+3. User defined functions
 
 
 # Behavior: Structure and Context
