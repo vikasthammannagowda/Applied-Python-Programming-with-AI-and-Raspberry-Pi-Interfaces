@@ -10,7 +10,7 @@
 **This course is open to all students who have completed at least 60 college credits. No prior programming or electronics experience is required. Ideal for students in computer science, engineering, digital arts, or interdisciplinary fields, the course emphasizes problem-solving, design thinking, and tangible outcomes through code and circuits.**
 
 
-`text inside a bigger box`
+`CURRENT MODULES`
 
 # Essentials: Grammar, Semantics, and Interaction
 
@@ -45,6 +45,8 @@
 2. Looping Comprehensions
 3. User defined functions
 
+
+`UPCOMMING MODULES`
 
 # Behavior: Structure and Context
 
