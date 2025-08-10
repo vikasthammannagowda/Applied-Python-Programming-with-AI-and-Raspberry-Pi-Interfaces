@@ -9,6 +9,7 @@
 
 **This course is open to all students who have completed at least 60 college credits. No prior programming or electronics experience is required. Ideal for students in computer science, engineering, digital arts, or interdisciplinary fields, the course emphasizes problem-solving, design thinking, and tangible outcomes through code and circuits.**
 
+----
 
 `CURRENT MODULES`
 
